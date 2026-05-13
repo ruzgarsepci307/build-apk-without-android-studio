@@ -45,3 +45,5 @@ cp $HOME/android/build2.gradle build.gradle
 cp $HOME/android/settings.gradle settings.gradle
 cp $HOME/android/gradle.properties gradle.properties
 cp $HOME/android/local.properties local.properties
+gradle build
+gradle build
